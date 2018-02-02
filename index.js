@@ -24,7 +24,7 @@ const facts = [
 function johnLennonFacts(facts) {
   var counter = 0
   while (counter < facts.length) {
-    array.push(`${facts}!!!`)
+    facts[counter]
   }
   return array
 }
