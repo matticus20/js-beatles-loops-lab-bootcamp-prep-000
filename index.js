@@ -23,7 +23,7 @@ const facts = [
   "He hated the sound of his own voice"];
 function johnLennonFacts(facts) {
   var counter = 0
-  while (facts) {
+  while (counter < facts.length) {
     array.push(`${facts}!!!`)
   }
   return array
