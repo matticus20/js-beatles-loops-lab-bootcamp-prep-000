@@ -33,6 +33,6 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(number) {
   var array = []
   do {
-    console.log("I love the Beatles!")
+    array.push("I love the Beatles!")
   } while ()
 }
