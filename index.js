@@ -27,7 +27,7 @@ function johnLennonFacts(facts) {
     facts[counter] = facts[counter] + '!!!'
     counter++
   }
-  return array
+  return facts
 }
 
 function iLoveTheBeatles(number) {
